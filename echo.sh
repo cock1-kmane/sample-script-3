@@ -1,2 +1,2 @@
 #!/bin/bash -e
-echo ' ---> Hello runShnew'
+echo ' ---> Hello runShnew!'
