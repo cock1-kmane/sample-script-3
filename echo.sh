@@ -1,3 +1,3 @@
 #!/bin/bash -e
-echo ' ---> Hello runShnew!'
-echo 'EOF!'
+echo ' ---> Hello runShnew'
+echo 'EOF'
