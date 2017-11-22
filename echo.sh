@@ -1,2 +1,2 @@
-echo ' ---> Hello runShnew'
-#sleep 5m
+#!/bin/bash -e
+echo ' ---> Hello runShnew!'
